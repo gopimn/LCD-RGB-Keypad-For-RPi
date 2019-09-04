@@ -1,10 +1,20 @@
-LCD-RGB-Keypad-For-RPi
-======================
-
+# LCD-RGB-Keypad-For-RPi
 Source code for LCD-RGB-Keypad-For-RPi (can be found on AliExpress store).
 Some improvement of the original code from Adafruit's Raspberry-Pi Python Code Library.
+This project has been adapted to work correctly in `Raspberry Pi 3 B+`
 
-============
+# Install
+```
+git clone https://github.com/vay3t/LCD-RGB-Keypad-For-RPi
+cd LCD-RGB-Keypad-For-RPi
+./LCDtest.py
+```
+
+
+# Disclaimer
+
+Is this fork from : https://github.com/prisme60/LCD-RGB-Keypad-For-RPi
+
 Copyright (c) 2012-2013 Limor Fried, Kevin Townsend and Mikey Sklar for Adafruit Industries.
 All rights reserved.
 
